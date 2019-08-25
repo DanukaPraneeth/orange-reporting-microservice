@@ -1,0 +1,12 @@
+
+\squid:S2147g"ECombine this catch with the one at line 101, which has the same body.(É®£
+fsquid:S2095'"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÿŞ­©
+ksquid:S2095["OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(şâ…·ùÿÿÿÿ
+^squid:S2095Z"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÀÑ¯#
+^squid:S2095&"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÀÑ¯#
+?squid:S1148A"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Lsquid:S1068"5Remove this unused "GET_SUMMARY_QUERY" private field.(ô»ÿÎ
+[squid:S2147@"DCombine this catch with the one at line 62, which has the same body.(É®£
+?squid:S1148?"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148f"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148h"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

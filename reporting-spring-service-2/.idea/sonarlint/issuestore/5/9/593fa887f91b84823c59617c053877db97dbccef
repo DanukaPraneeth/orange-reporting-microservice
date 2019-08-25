@@ -1,0 +1,15 @@
+
+Fsquid:S20933"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+dsquid:S2095Š"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ç¦»Ú
+Isquid:S1153“"1Directly append the argument of String.valueOf().(¾Ñ´Ø
+@squid:S1148•"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Hsquid:S11537"1Directly append the argument of String.valueOf().(óëÑ¤
+isquid:S3776#"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Éëÿ 
+;squid:S2629%"$Invoke method(s) only conditionally.(³ÌÑœ
+Gsquid:S11534"1Directly append the argument of String.valueOf().(¬œä"
+rsquid:S26294"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¬œä"
+tsquid:S2629“"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¾Ñ´Ø
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(¿´­çûÿÿÿÿ
+dsquid:S4488""HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(©Üïúÿÿÿÿ
+csquid:S2095H"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ç¦»Ú
+ssquid:S26297"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(óëÑ¤
