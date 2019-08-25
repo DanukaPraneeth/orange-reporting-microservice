@@ -32,15 +32,15 @@ Execute the below sample curl commands to generate these reports
 
 
 ```
-	curl -X GET 'http://localhost:8080/generatecsv/status-report?upper={starting-date, eg :2019-06-31 }&lower={ending-date, eg :2019-05-31 }&reportName=My-traffic-report'
+curl -X GET 'http://localhost:8080/generatecsv/status-report?upper={starting-date, eg :2019-06-31 }&lower={ending-date, eg :2019-05-31 }&reportName=My-traffic-report'
 ```
 
 ```
-	curl -X GET 'http://localhost:8080/generatecsv/operator-report?upper={starting-date, eg :2019-06-31 }&lower={ending-date, eg :2019-05-31 }&reportName=My-operator-report'
+curl -X GET 'http://localhost:8080/generatecsv/operator-report?upper={starting-date, eg :2019-06-31 }&lower={ending-date, eg :2019-05-31 }&reportName=My-operator-report'
 ```
 
 ```
-	curl -X GET 'http://localhost:8080/generatecsv/sp-report?upper={starting-date, eg :2019-06-31 }&lower={ending-date, eg :2019-05-31 }&reportName=My-sp-report'
+curl -X GET 'http://localhost:8080/generatecsv/sp-report?upper={starting-date, eg :2019-06-31 }&lower={ending-date, eg :2019-05-31 }&reportName=My-sp-report'
 ```
 
 
