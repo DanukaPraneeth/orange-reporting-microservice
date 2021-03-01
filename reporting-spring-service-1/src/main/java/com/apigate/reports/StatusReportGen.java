@@ -37,7 +37,7 @@ public class StatusReportGen {
 
     /**
      *
-     * Sample curl request curl -X GET 'http://localhost:8080/generatecsv/status-report?upper=2019-07-30&lower=2019-06-30&reportName=Bizao'
+     * Sample curl request curl -X GET 'http://localhost:8080/generatecsv/status-report?upper=2019-07-30&lower=2019-06-30&reportName=Report1'
      *
      **/
     @RequestMapping(method = RequestMethod.GET, value = "/generatecsv/status-report")
