@@ -34,7 +34,7 @@ public class SettlementReportGen {
 
     /**
      *
-     * Sample curl request curl -X GET 'http://localhost:8080/generatecsv/sp-report?upper=2019-07-30&lower=2019-06-30&reportName=Bizao'
+     * Sample curl request curl -X GET 'http://localhost:8080/generatecsv/sp-report?upper=2019-07-30&lower=2019-06-30&reportName=Report1'
      *
      **/
     @RequestMapping(method = RequestMethod.GET, value = "/generatecsv/sp-report")
@@ -174,7 +174,7 @@ public class SettlementReportGen {
 
     /**
      *
-     * Sample curl request curl -X GET 'http://localhost:8080/generatecsv/operator-report?upper=2019-07-30&lower=2019-06-30&reportName=Bizao'
+     * Sample curl request curl -X GET 'http://localhost:8080/generatecsv/operator-report?upper=2019-07-30&lower=2019-06-30&reportName=Report1'
      *
      **/
     @RequestMapping(method = RequestMethod.GET, value = "/generatecsv/operator-report")
