@@ -1,6 +1,6 @@
 # orange-reporting-microservice (Spring Boot)
 
-### This rest service is developed to generate three main reports for Mobile money API traffic.
+### This rest service is developed to generate Reports from a MySQL database.
 
 - Totaol traffic report
 - Operator Settlement report
